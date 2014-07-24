@@ -1,7 +1,7 @@
 # config
-cover: //blog.ghost.org/content/images/2013/Nov/cover.png
-logo: //blog.ghost.org/content/images/2013/Nov/bloglogo_1-1.png
-bio: 'A designer, developer and entrepreneur. Spends his time travelling the world with a bag of kites. Likes journalism and publishing platforms.'
+cover: /images/mountain-1.jpg
+logo: 
+bio: "I'm an unashamed idealist, but I'm not afraid to change my opinions. I love creating beautiful things. interfaces, apis, music. ideas."
 
 # Content
 excerpt_link: Read More
